@@ -1,0 +1,2 @@
+code
+"class Example extends React.Component { constructor(props) { super(props); this.state = { value: "default" }; } render() { return <div>{this.props.initialValue}</div>; } }"
